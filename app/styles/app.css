@@ -1,3 +1,27 @@
 html, body {
   margin: 20px;
 }
+
+body {
+  background: url(http://cdn.morguefile.com/imageData/public/files/m/MGDboston/01/l/1391204573urk80.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-opacity: 0.5;
+
+}
+
+
+.upperHeader {
+  text-align: center;
+  color: white;
+  font-family: 'Lobster', cursive;
+  font-size: 2em;
+}
+
+
+.lowerHeader nav button {
+  font-family: 'Lobster', cursive;
+
+}
